@@ -1,0 +1,390 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;1,500&family=Poppins:wght@600&display=swap');
+
+body {
+    background-image: linear-gradient(90deg, #0077ff, #004bbc);
+}
+
+header h1 {
+    margin-top: 10px;
+    text-align: center;
+}
+
+header h2 {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 10;
+    font-size: 30px;
+}
+
+.jose a {
+    position: relative;
+    left: 7px;
+    text-decoration: none;
+    color: #004bbc;
+}
+
+.jose a:hover {
+    color: #000000;
+}
+
+.jose {
+    position: relative;
+    bottom: 52px;
+    left: 1400px;
+    background-color: #fff;
+    height: 30px;
+    width: 100px;
+    border-radius: 7px;
+}
+
+main {
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    margin-top: 40px;
+}
+
+.d1 {
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+}
+
+.d2 {
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+}
+
+.d3 {
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+}
+
+.Diary {
+    text-align: center;
+    margin-top: 27px;
+    margin-bottom: 22px;
+}
+
+.App1 {
+    background-image: url("traduct.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.App2 {
+    background-image: url("calcul.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.App3 {
+    background-image: url("youtb.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.App4 {
+    background-image: url("goog.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.Plataforms-School {
+    text-align: center;
+    margin-top: 27px;
+    margin-bottom: 22px;
+}
+
+.App5 {
+    background-image: url("alur.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.App6 {
+    background-image: url("matific.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.App7 {
+    background-image: url("ingparaná.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.App8 {
+    background-image: url("redparaná.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.cursos {
+    text-align: center;
+    margin-top: 27px;
+    margin-bottom: 22px;
+}
+
+.curso1 {
+    background-image: url("cursa.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.curso2 {
+    background-image: url("fundbrad.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.curso3 {
+    background-image: url("gov.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.curso4 {
+    background-image: url("duolin.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+
+.Enem {
+    text-align: center;
+    margin-top: 27px;
+    margin-bottom: 0px;
+}
+
+.Enem1 {
+    background-image: url("hrenem.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.Enem2 {
+    background-image: url("mandbem.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.Enem3 {
+    background-image: url("gramatic.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.Enem4 {
+    background-image: url("mesalv.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.Enem22 {
+    text-align: center;
+    margin-bottom: 22px;
+}
+
+.Enem5 {
+    background-image: url("vest.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.Enem6 {
+    background-image: url("projred.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.Enem7 {
+    background-image: url("geekie.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.Enem8 {
+    background-image: url("blogenem.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.Others {
+    text-align: center;
+    margin-top: 27px;
+}
+
+.App9 {
+    background-image: url("gmail.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.App10 {
+    background-image: url("docs.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black; 
+}
+
+.App11 {
+    background-image: url("shets.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.App12 {
+    background-image: url("apre.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.Others2 {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.App13 {
+    background-image: url("bibl.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.App14 {
+    background-image: url("class.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.App15 {
+    background-image: url("meet.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+.App16 {
+    background-image: url("canva.png");
+    height: 130px;
+    width: 130px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: black;
+}
+
+footer p {
+    position: relative;
+    top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
